@@ -1,0 +1,17 @@
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\gifag\source\repos\TimetableTgBot\obj\Debug\netcoreapp3.1\TimetableBot.csprojAssemblyReference.cache
+C:\Users\gifag\source\repos\TimetableTgBot\obj\Debug\netcoreapp3.1\TimetableBot.AssemblyInfoInputs.cache
+C:\Users\gifag\source\repos\TimetableTgBot\obj\Debug\netcoreapp3.1\TimetableBot.AssemblyInfo.cs
+C:\Users\gifag\source\repos\TimetableTgBot\obj\Debug\netcoreapp3.1\TimetableBot.csproj.CoreCompileInputs.cache
+C:\Users\gifag\source\repos\TimetableTgBot\obj\Debug\netcoreapp3.1\TimetableBot.csproj.CopyComplete
+C:\Users\gifag\source\repos\TimetableTgBot\obj\Debug\netcoreapp3.1\TimetableBot.genruntimeconfig.cache
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\TimetableBot.exe
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\TimetableBot.deps.json
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\TimetableBot.runtimeconfig.json
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\TimetableBot.runtimeconfig.dev.json
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\TimetableBot.dll
+C:\Users\gifag\source\repos\TimetableTgBot\bin\Debug\netcoreapp3.1\TimetableBot.pdb
+C:\Users\gifag\source\repos\TimetableTgBot\obj\Debug\netcoreapp3.1\TimetableBot.dll
+C:\Users\gifag\source\repos\TimetableTgBot\obj\Debug\netcoreapp3.1\TimetableBot.pdb

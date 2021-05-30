@@ -1,0 +1,9 @@
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\Settings.job
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\MyFirstTGBot.exe
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\MyFirstTGBot.dll
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\MyFirstTGBot.deps.json
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\MyFirstTGBot.runtimeconfig.json
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\MyFirstTGBot.pdb
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\HtmlAgilityPack.dll
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\Newtonsoft.Json.dll
+C:\Users\gifag\source\repos\MyFirstTGBot\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\MyFirstTGBot\Telegram.Bot.dll
